@@ -1,0 +1,1 @@
+# AI-based-wildfire-spread-prediction-using-satellite-imagenery
